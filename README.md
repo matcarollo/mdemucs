@@ -49,7 +49,7 @@ The evaluation demonstrates that MDemucs achieves superior sound separation with
 ## Installation
 
 ```bash
-git clone https://github.com/matcarollo]/MDemucs.git
+git clone https://github.com/matcarollo/MDemucs.git
 cd MDemucs
 pip install .
 ```
